@@ -13,6 +13,6 @@ FOUNDATION_EXPORT double JRSwizzleVersionNumber;
 //! Project version string for JRSwizzle.
 FOUNDATION_EXPORT const unsigned char JRSwizzleVersionString[];
 
-import <JRSwizzle/JRSwizzle.h>
+import <jr_swizzle/JRSwizzle.h>
 
 
